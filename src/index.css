@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.parent{
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  width: 100%;
+  background-color: black;
+  padding: 20px;
+  min-height: 100px;
+}

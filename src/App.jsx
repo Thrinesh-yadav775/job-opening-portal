@@ -130,6 +130,7 @@ const App = () => {
         location={elems.location}
         /></div>
       })}
+      <h1>this is job portal</h1>
     </div>
   )
 }
